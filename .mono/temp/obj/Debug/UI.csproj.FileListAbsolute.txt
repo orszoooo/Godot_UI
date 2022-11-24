@@ -1,0 +1,9 @@
+C:\Users\orszo\OneDrive\Pulpit\SKN\UI\.mono\temp\bin\Debug\UI.dll
+C:\Users\orszo\OneDrive\Pulpit\SKN\UI\.mono\temp\bin\Debug\UI.pdb
+C:\Users\orszo\OneDrive\Pulpit\SKN\UI\.mono\temp\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\orszo\OneDrive\Pulpit\SKN\UI\.mono\temp\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orszo\OneDrive\Pulpit\SKN\UI\.mono\temp\obj\Debug\UI.AssemblyInfoInputs.cache
+C:\Users\orszo\OneDrive\Pulpit\SKN\UI\.mono\temp\obj\Debug\UI.AssemblyInfo.cs
+C:\Users\orszo\OneDrive\Pulpit\SKN\UI\.mono\temp\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\orszo\OneDrive\Pulpit\SKN\UI\.mono\temp\obj\Debug\UI.dll
+C:\Users\orszo\OneDrive\Pulpit\SKN\UI\.mono\temp\obj\Debug\UI.pdb
