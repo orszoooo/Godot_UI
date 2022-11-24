@@ -1,0 +1,45 @@
+[gd_scene load_steps=2 format=2]
+
+[sub_resource type="CSharpScript" id=1]
+resource_name = "Main"
+script/source = "using Godot;
+using System;
+
+public class Main : Panel
+{
+    // Declare member variables here. Examples:
+    // private int a = 2;
+    // private string b = \"text\";
+
+    // Called when the node enters the scene tree for the first time.
+    public override void _Ready()
+    {
+        
+    }
+
+//  // Called every frame. 'delta' is the elapsed time since the previous frame.
+//  public override void _Process(float delta)
+//  {
+//      
+//  }
+}
+"
+
+[node name="Panel" type="Panel"]
+margin_right = 308.0
+margin_bottom = 202.0
+script = SubResource( 1 )
+
+[node name="Button" type="Button" parent="."]
+margin_left = 93.0
+margin_top = 144.0
+margin_right = 200.0
+margin_bottom = 165.0
+text = "Click me!"
+
+[node name="Label" type="Label" parent="."]
+margin_left = 102.0
+margin_top = 72.0
+margin_right = 193.0
+margin_bottom = 86.0
+text = "This is a label."
